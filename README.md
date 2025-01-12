@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Erick Labrada  
 🚀 Aspiring Software Engineer | Passionate About Astronomy, Physics, and Quantum Computing  
 
@@ -8,15 +7,10 @@
 - 🛠️ I specialize in system architecture, IoT, and scientific simulations.  
 
 ## Skills  
-- **Languages:** Java, Python, JavaScript, TypeScript  
-- **Frameworks & Tools:** NestJS, Flask, Qiskit  
+- **Languages:** Java, Python, JavaScript, TypeScript, C# 
+- **Frameworks & Tools:** NestJS, .NET, Angular  
 - **Databases:** MongoDB, SQL  
-- **Other:** Machine Learning, 3D Graphics, Software Architecture  
-
-## Featured Projects  
-- 🌱 [Greenhouse Management System](https://github.com/your-username/greenhouse-system): A smart system for monitoring and controlling greenhouse sensors using IoT and ESP32.  
-- 🌌 [3D Engine](https://github.com/your-username/3d-engine): A Java-based 3D graphics engine built using linear algebra and projection matrices.  
-- 🤖 [Convolutional Neural Network](https://github.com/your-username/cnn-pokemon): A CNN model to classify Pokémon, demonstrating image recognition techniques.  
+- **Other:** Software Design & Architecture  
 
 ## Current Goals  
 - 🛠️ Developing a quantum circuit simulator using Qiskit.  
