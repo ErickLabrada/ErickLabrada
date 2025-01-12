@@ -5,7 +5,7 @@
 - 🎓 Senior Software Engineering student at ITSON, graduating May 2025.  
 - 🌌 Passionate about applying software development to astronomy and quantum computing.  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: The first time I faced the IT world was at 12, trying to set up a Minecraft server to play with my friends!  
+- ⚡ Fun fact: The first time I faced the IT world was at 12 years old, I was trying to set up a Minecraft server to play with my friends!  
 
 ## Skills  
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
