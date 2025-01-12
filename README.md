@@ -14,9 +14,9 @@
 - **Other:** Software Design & Architecture  
 
 ## Current Goals  
-- 🛠️ Developing a quantum circuit simulator using Qiskit.  
-- 📚 Learning advanced concepts in computational physics and machine learning.  
-- 🌌 Building a simulation of orbital mechanics with Python.  
+- 🛠️ Learning Qiskit.  
+- 📚 Learning about quantum computing.  
+- 🌌 Planning a coding event for my community.  
 
 ## Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ErickLabrada)  
