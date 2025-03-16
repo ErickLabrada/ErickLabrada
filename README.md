@@ -16,7 +16,6 @@
 ## Current Goals  
 - 🛠️ Learning Qiskit.  
 - 📚 Diving deeper into quantum computing.  
-- 🌌 Organizing a coding event to unite my college's dev community.  
 
 ## Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ErickLabrada)  
