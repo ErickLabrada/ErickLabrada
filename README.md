@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Erick Labrada  
-🚀 Aspiring Software Engineer | Passionate About Astronomy, Physics, and Quantum Computing  
+🚀 Aspiring Software Engineer | Passionate About Astronomy, Physics, AI, and Quantum Computing  
 
 ## About Me  
 - 🎓 Senior Software Engineering student at ITSON, graduating May 2025.  
@@ -9,12 +9,13 @@
 
 ## Skills  
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
-- **Frameworks & Tools:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  
-- **Databases:** MongoDB, SQL  
+- **Frameworks & Tools:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+- **Databases:** MongoDB, MySQL, PostgreSQL  
 - **Other:** Software Design & Architecture  
 
 ## Current Goals  
 - 🛠️ Learning Qiskit.  
+- 🛠️ Learning Langchain.  
 - 📚 Diving deeper into quantum computing.  
 
 ## Connect With Me  
