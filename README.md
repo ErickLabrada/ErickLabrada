@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Erick Labrada  
-🚀 Aspiring Software Engineer | Passionate About Astronomy, Physics, AI, and Quantum Computing  
+🚀 Aspiring AI Engineer | Passionate About Astronomy, Physics, AI, and Quantum Computing  
 
 ## About Me  
-- 🎓 Senior Software Engineering student at ITSON, graduating May 2025.  
+- 🎓 Software Engineer, graduated May 2025.  
 - 🌌 Passionate about applying software development to astronomy and quantum computing.  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: The first time I faced the IT world was at 12 years old, I was trying to set up a Minecraft server to play with my friends!  
